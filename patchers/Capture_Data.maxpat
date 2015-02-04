@@ -836,6 +836,7 @@
 						"description" : "",
 						"digest" : "",
 						"tags" : "",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontname" : "Arial",
@@ -847,7 +848,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 227.0, 405.0, 172.0, 32.0 ],
-									"text" : "/Users/emmafrid/Desktop/S6practice.csv"
+									"text" : "/Users/emmafrid/Desktop/S18practice.csv"
 								}
 
 							}
@@ -922,13 +923,13 @@
 									"fontname" : "Arial",
 									"fontsize" : 12.0,
 									"id" : "obj-131",
-									"linecount" : 2,
+									"linecount" : 3,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 328.0, 307.0, 50.0, 32.0 ],
-									"text" : "S6practice.csv"
+									"patching_rect" : [ 328.0, 307.0, 50.0, 46.0 ],
+									"text" : "S18practice.csv"
 								}
 
 							}
@@ -971,7 +972,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 168.0, 509.0, 78.0, 73.0 ],
-									"text" : "write /Users/emmafrid/Desktop/S6practice.csv"
+									"text" : "write /Users/emmafrid/Desktop/S18practice.csv"
 								}
 
 							}
@@ -1176,7 +1177,7 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-140", 0 ],
-									"disabled" : 0,
+									"disabled" : 1,
 									"hidden" : 0,
 									"source" : [ "obj-72", 0 ]
 								}

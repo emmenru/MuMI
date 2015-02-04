@@ -7,7 +7,7 @@
 			"revision" : 4
 		}
 ,
-		"rect" : [ 10.0, 49.0, 524.0, 146.0 ],
+		"rect" : [ 10.0, 49.0, 565.0, 144.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -301,7 +301,7 @@
  ],
 						"dependency_cache" : [ 							{
 								"name" : "Time.maxpat",
-								"bootpath" : "/Users/emmafrid/GitHub/MuMI_WithoutColl/MuMI/patchers",
+								"bootpath" : "/Users/emmafrid/Desktop/MuMIExperiment/patchers",
 								"type" : "JSON",
 								"implicit" : 1
 							}
@@ -310,16 +310,16 @@
 ,
 					"patching_rect" : [ 1388.5, 135.642883, 79.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial",
 						"fontname" : "Arial",
 						"tags" : "",
-						"default_fontsize" : 12.0,
-						"description" : "",
+						"default_fontface" : 0,
 						"globalpatchername" : "",
+						"digest" : "",
+						"default_fontname" : "Arial",
 						"fontface" : 0,
-						"fontsize" : 12.0
+						"fontsize" : 12.0,
+						"default_fontsize" : 12.0,
+						"description" : ""
 					}
 ,
 					"text" : "p PauseSign"
@@ -441,7 +441,6 @@
 					"fontname" : "Courier New",
 					"fontsize" : 64.0,
 					"hbgcolor" : [ 0.666667, 0.698039, 0.717647, 0.0 ],
-					"hidden" : 1,
 					"htricolor" : [ 0.870588, 0.819608, 0.239216, 0.0 ],
 					"id" : "obj-72",
 					"ignoreclick" : 1,
@@ -452,7 +451,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 921.0, 182.642883, 141.0, 79.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 509.0, 78.0, 141.0, 79.0 ],
+					"presentation_rect" : [ 471.0, 70.178558, 141.0, 79.0 ],
 					"textcolor" : [ 0.8, 1.0, 0.4, 1.0 ],
 					"triangle" : 0,
 					"tricolor" : [ 0.921569, 0.94902, 0.05098, 0.0 ],
@@ -654,7 +653,6 @@
 					"bgcolor2" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"fontname" : "Courier New",
 					"fontsize" : 16.0,
-					"hidden" : 1,
 					"id" : "obj-49",
 					"ignoreclick" : 1,
 					"maxclass" : "message",
@@ -731,7 +729,6 @@
 					"bgcolor2" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"fontname" : "Courier New",
 					"fontsize" : 16.0,
-					"hidden" : 1,
 					"id" : "obj-30",
 					"ignoreclick" : 1,
 					"maxclass" : "message",
@@ -907,7 +904,7 @@
 					"patching_rect" : [ -18.0, 192.0, 167.0, 86.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 60.640625, 12.0, 527.71875, 32.0 ],
-					"text" : "\"2 no haptics + visual\"",
+					"text" : "\"3 haptics + visual + friction\"",
 					"textcolor" : [ 1.0, 1.0, 0.0, 1.0 ]
 				}
 
@@ -1327,8 +1324,8 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "Time.maxpat",
-				"bootpath" : "/Users/emmafrid/GitHub/MuMI_WithoutColl/MuMI/patchers",
-				"patcherrelativepath" : "../../MuMI/patchers",
+				"bootpath" : "/Users/emmafrid/Desktop/MuMIExperiment/patchers",
+				"patcherrelativepath" : "",
 				"type" : "JSON",
 				"implicit" : 1
 			}
