@@ -1,0 +1,8 @@
+{
+	"1": "1 haptics + visual",
+	"2" : "2 no haptics + visual",
+	"3" : "3 haptics + visual + friction",
+	"4" : "4 haptics + visual + noise",
+	"5" : "5 no haptics + visual + friction", 
+	"6" : "6 no haptics + visual + noise"
+}
